@@ -25,7 +25,7 @@ This project uses file handling features of C. Here, the system creates an exter
 
 ## Challenges
 
-This was a really challanging project as it was our first Project with **C programing language**.
+This was a really challanging project as it was our first Project with **C programing language**. We faced few major errors and many minor errors finding which was very tricky job. 
 
 
 ## Things Learnt
