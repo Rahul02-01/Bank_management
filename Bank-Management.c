@@ -33,8 +33,7 @@ int reclen=sizeof(a);
 int bal;
 
 int main()
-{
-	int choice; 
+{ 
 	printf("                                                  Welcome to Bank Manegement System \n");
 	printf("                                                                            created by:- Debopriya Dey and Rahul Das Majumder\n");
 	//printf("                                                                      Debopriya Dey\n");
